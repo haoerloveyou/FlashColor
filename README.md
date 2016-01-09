@@ -1,4 +1,4 @@
-#FlashColor
+# FlashColor
 
 
 Compatible with iOS 7, iOS 8 and iOS 9.
